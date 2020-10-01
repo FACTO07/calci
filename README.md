@@ -10,7 +10,7 @@ if Operator=="-"
  print(input(NUM1-NUM2 ))
 
 if Operator=="*"
-    print(int(input(NUM1*NUM2))
+    print(int(input(NUM1*NUM2)))
 
 if Operator=="/"
-    print(int(input(NUM1/NUM2))
+    print(int(input(NUM1/NUM2)))
